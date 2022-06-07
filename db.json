@@ -1,0 +1,60 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "producto": "Zapatilla para mujer",
+            "marca": "Nike",
+            "cantidad": 15,
+            "precio": "$150"
+        },
+        {
+            "id": 2,
+            "producto": "Zapatilla para hombre",
+            "marca": "Nike",
+            "cantidad": 10,
+            "precio": "$145"
+        },
+        {
+            "id": 3,
+            "producto": "Casacas para hombres",
+            "marca": "Diesel",
+            "cantidad": 15,
+            "precio": "$50"
+        },
+        {
+            "id": 4,
+            "producto": "Casacas para  mujer",
+            "marca": "Diesel",
+            "cantidad": 15,
+            "precio": "$50"
+        },
+        {
+            "id": 5,
+            "producto": "Jeans para mujer",
+            "marca": "Bronco",
+            "cantidad": 60,
+            "precio": "$73"
+        },
+        {
+            "id": 6,
+            "producto": "Jeans para hombre",
+            "marca": "Pioner",
+            "cantidad": 32,
+            "precio": "$150"
+        },
+        {
+            "id": 7,
+            "producto": "Ropa de baño para mujer",
+            "marca": "Apology",
+            "cantidad": 50,
+            "precio": "$30"
+        },
+        {
+            "id": 8,
+            "producto": "Polos",
+            "marca": "Nike",
+            "cantidad": 18,
+            "precio": "$65"
+        }
+    ]
+}
